@@ -1,0 +1,2 @@
+rootProject.name='RedditKotlinDemo'
+include ':app'
